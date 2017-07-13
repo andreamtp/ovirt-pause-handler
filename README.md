@@ -1,2 +1,2 @@
-# snmptrap-pause-handler
-oVirt/RHV snmptrad handler to manage pause state of VMs
+# ovirt-pause-handler
+oVirt/RHV snmptrapd handler to manage pause state of VMs
